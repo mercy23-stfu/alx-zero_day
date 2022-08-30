@@ -1,1 +1,1 @@
-A not empty file
+This file is not empty.
